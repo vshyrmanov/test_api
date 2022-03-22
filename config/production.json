@@ -1,6 +1,0 @@
-{
-  "port": 5000,
-  "jwtSecret": "vshyrmanov",
-  "mongoUri": "mongodb+srv://vshyrmanov:123456Mern@cluster0.itdad.mongodb.net/MERN?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
-}
